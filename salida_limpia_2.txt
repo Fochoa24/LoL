@@ -1,0 +1,23 @@
+
+--- Analizando a Axios Park#MAGIA ---
+Axios Park#MAGIA | Xayah | VICTORIA | KDA: ="4 - 10 - 8" | CS/m: 8.74 | Mins: 32.73
+Axios Park#MAGIA | Xayah | DERROTA | KDA: ="14 - 5 - 3" | CS/m: 11.41 | Mins: 30.33
+Axios Park#MAGIA | Jhin | VICTORIA | KDA: ="12 - 2 - 11" | CS/m: 8.41 | Mins: 35.53
+Axios Park#MAGIA | Jhin | DERROTA | KDA: ="6 - 4 - 3" | CS/m: 9.42 | Mins: 32.5
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="6 - 4 - 11" | CS/m: 7.35 | Mins: 30.33
+Axios Park#MAGIA | Jhin | DERROTA | KDA: ="7 - 4 - 10" | CS/m: 7.57 | Mins: 30.27
+Axios Park#MAGIA | Xayah | VICTORIA | KDA: ="6 - 2 - 7" | CS/m: 8.23 | Mins: 19.08
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="2 - 5 - 8" | CS/m: 9.09 | Mins: 27.4
+Axios Park#MAGIA | Caitlyn | VICTORIA | KDA: ="4 - 1 - 6" | CS/m: 8.13 | Mins: 26.8
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="8 - 6 - 14" | CS/m: 8.04 | Mins: 32.47
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="6 - 7 - 9" | CS/m: 9.06 | Mins: 27.72
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="6 - 6 - 3" | CS/m: 8.12 | Mins: 29.8
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="2 - 2 - 5" | CS/m: 8.38 | Mins: 22.68
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="14 - 5 - 7" | CS/m: 8.02 | Mins: 33.18
+Axios Park#MAGIA | Caitlyn | VICTORIA | KDA: ="15 - 3 - 8" | CS/m: 8.12 | Mins: 39.52
+Axios Park#MAGIA | Caitlyn | VICTORIA | KDA: ="5 - 4 - 5" | CS/m: 8.41 | Mins: 33.52
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="0 - 3 - 1" | CS/m: 8.05 | Mins: 15.28
+Axios Park#MAGIA | Caitlyn | VICTORIA | KDA: ="9 - 4 - 7" | CS/m: 8.64 | Mins: 28.35
+Axios Park#MAGIA | Caitlyn | DERROTA | KDA: ="2 - 1 - 5" | CS/m: 7.57 | Mins: 20.75
+Axios Park#MAGIA | Jhin | DERROTA | KDA: ="9 - 8 - 17" | CS/m: 7.84 | Mins: 35.22
+Axios Park#MAGIA | Jhin | DERROTA | KDA: ="2 - 2 - 2" | CS/m: 9.36 | Mins: 27.57

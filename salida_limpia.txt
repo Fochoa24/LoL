@@ -1,0 +1,21 @@
+
+--- Analizando a Parkcito#00028 ---
+
+--- Analizando a Axios Park#MAGIA ---
+
+=== RESUMEN DE PARTIDAS ENCONTRADAS ===
+Parkcito#00028 | Xayah | VICTORIA | KDA: ="2 - 3 - 11" | CS/m: 8.93 | Mins: 28.57
+Parkcito#00028 | Xayah | VICTORIA | KDA: ="2 - 3 - 12" | CS/m: 8.98 | Mins: 36.77
+Parkcito#00028 | Xayah | DERROTA | KDA: ="5 - 6 - 5" | CS/m: 9.08 | Mins: 30.38
+Parkcito#00028 | Xayah | VICTORIA | KDA: ="6 - 2 - 10" | CS/m: 9.74 | Mins: 23.52
+Parkcito#00028 | Jhin | DERROTA | KDA: ="1 - 7 - 11" | CS/m: 6.99 | Mins: 29.75
+Parkcito#00028 | Caitlyn | DERROTA | KDA: ="8 - 7 - 5" | CS/m: 7.89 | Mins: 39.57
+Parkcito#00028 | Caitlyn | DERROTA | KDA: ="3 - 8 - 8" | CS/m: 7.87 | Mins: 41.95
+Parkcito#00028 | Caitlyn | VICTORIA | KDA: ="5 - 2 - 7" | CS/m: 9.17 | Mins: 19.63
+Parkcito#00028 | Caitlyn | DERROTA | KDA: ="5 - 11 - 5" | CS/m: 7.02 | Mins: 28.63
+Parkcito#00028 | Caitlyn | VICTORIA | KDA: ="10 - 2 - 13" | CS/m: 9.84 | Mins: 28.15
+Parkcito#00028 | Caitlyn | VICTORIA | KDA: ="13 - 4 - 7" | CS/m: 8.55 | Mins: 28.88
+Parkcito#00028 | Caitlyn | VICTORIA | KDA: ="7 - 3 - 8" | CS/m: 9.36 | Mins: 28.52
+Parkcito#00028 | Caitlyn | DERROTA | KDA: ="5 - 7 - 11" | CS/m: 7.39 | Mins: 36.02
+Parkcito#00028 | Caitlyn | VICTORIA | KDA: ="1 - 2 - 6" | CS/m: 9.51 | Mins: 29.67
+Parkcito#00028 | Jhin | VICTORIA | KDA: ="9 - 14 - 25" | CS/m: 3.01 | Mins: 20.93
