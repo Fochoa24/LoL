@@ -22,8 +22,8 @@ def riot_request(url, headers, max_retries=5):
 
 
 
-# Pega aquí tu API Key de Riot Games
-API_KEY = "RGAPI-8f090076-e621-4117-99dd-dcbc1307420f" 
+# API Key de Riot Games: se lee de la variable de entorno RIOT_API_KEY
+API_KEY = os.environ.get("RIOT_API_KEY", "TU_API_KEY_AQUI")
 
 # La región para buscar el Riot ID suele ser americas, europe o asia.
 # 'americas' incluye LAN, LAS, NA, BR.
@@ -295,6 +295,6 @@ def main():
         
 if __name__ == "__main__":
     if API_KEY == "TU_API_KEY_AQUI":
-        print("¡ATENCIÓN! Coloca tu API Key real arriba en el código.")
+        print("¡ATENCIÓN! Define la variable de entorno RIOT_API_KEY (ej: set RIOT_API_KEY=RGAPI-...).")
     else:
         main()
